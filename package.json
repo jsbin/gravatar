@@ -1,0 +1,28 @@
+{
+  "name": "jsbin-gravatar",
+  "version": "0.0.0",
+  "description": "Default gravatar for jsbin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsbin/gravatar.git"
+  },
+  "keywords": [
+    "jsbin"
+  ],
+  "author": "Remy Sharp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsbin/gravatar/issues"
+  },
+  "homepage": "https://github.com/jsbin/gravatar",
+  "dependencies": {
+    "svg2png": "~1.1.0",
+    "express": "~4.8.3",
+    "hbs": "~2.7.0",
+    "serve-favicon": "~2.0.1"
+  }
+}
